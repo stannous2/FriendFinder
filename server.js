@@ -3,12 +3,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 
-// const path = require("path");
-// const apiRoutes = require("./routing/apiRoutes");
-// const htmlRoutes = require("./routing/htmlRoutes");
-// let friends = require("./app/data/friends");
-
-
 // Sets up the Express App
 // =============================================================
 const app = express();
